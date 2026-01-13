@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Kish_AndreiCezar_Project.MLService.Controllers.PredictController",
+    "Method": "Post",
+    "RelativePath": "api/Predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Kish_AndreiCezar_Project.MLService.Controllers.PredictionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Kish_AndreiCezar_Project.MLService.Controllers.PredictionResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
