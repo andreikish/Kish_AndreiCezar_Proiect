@@ -1,0 +1,2 @@
+obj\Debug\net10.0\Protos/Maintenance.cs \
+obj\Debug\net10.0\Protos/MaintenanceGrpc.cs: Protos/maintenance.proto
